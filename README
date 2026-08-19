@@ -1,0 +1,12 @@
+C482 Inventory Management System
+Project for WGU C482 - Software I. This project was written in the Java programming language and includes a JavaFX GUI created in SceneBuilder. Skills demonstrated in this application are:
+
+object-oriented programming in Java
+inheritance
+abstract and concrete classes
+internal validation and error messages
+Javadocs
+displaying and manipulating data in an interface
+changing the interface itself based on user input
+
+This Java application contains a UI which allows the user to add, modify and delete inventory Parts & Products.
